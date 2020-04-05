@@ -1,2 +1,2 @@
 # interests
-Some useful frontend demos, mostly written in React
+Some useful frontend demos, mainly written in React
